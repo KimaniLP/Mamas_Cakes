@@ -1,2 +1,2 @@
 # Mamas_Cakes
-repo for mamas cakes
+This will be a repo for my mum's amazing cake shop
